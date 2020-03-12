@@ -3,10 +3,11 @@ A Client-Side Web Application developed by using HTML, CSS and JavaScript
 
 
 <img src="Screenshots of web app/home-page.png" width="800"/>
-<img src="Screenshots of web app/home-page2.png" width="800" hspace="20"/>
+<img src="Screenshots of web app/home-page2.png" width="800" vspace="30"/>
 
 
-<img src="Screenshots of web app/feedbackform.png" width="400"/> <img src="Screenshots of web app/mens-collection.png" width="400" hspace="20"/>
+<img src="Screenshots of web app/feedbackform.png" width="800"/> 
+<img src="Screenshots of web app/mens-collection.png" width="800" vspace="30"/>
 
 
 
